@@ -1,0 +1,13 @@
+
+dependencies:
+- alias: expose
+  name: exposecontroller
+  repository: https://chartmuseum.build.cd.jenkins-x.io
+  version: 2.3.56
+- alias: cleanup
+  name: exposecontroller
+  repository: https://chartmuseum.build.cd.jenkins-x.io
+  version: 2.3.56
+- alias: preview
+  name: pythonapp1-10042
+  repository: file://../pythonapp1-10042
